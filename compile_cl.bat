@@ -1,0 +1,2 @@
+javac texttransferGUI.java
+pause
